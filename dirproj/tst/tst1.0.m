@@ -1,0 +1,3 @@
+PROGRAM
+PRINT @ "Hello world\n"
+ENDPROGRAM
